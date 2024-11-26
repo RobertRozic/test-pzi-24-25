@@ -1,1 +1,2 @@
-test
+PZI testni repozitorij
+
